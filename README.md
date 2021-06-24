@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ThanhTungg
+- 👋 Hi, I’m @Thanh
 - 👀 I’m interested in Deep Learning
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on Deep Learning
